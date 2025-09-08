@@ -18,4 +18,7 @@ class Math:
     def mul(self, x,y):
         return x*y
 
+    def archits_second_function(self):
+        pass
+
 
