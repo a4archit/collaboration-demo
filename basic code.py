@@ -28,4 +28,7 @@ class Math:
     def archits_third_function(self):
         pass
 
+    def archits_fourth_function(self):
+        pass
+
 
