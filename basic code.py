@@ -11,7 +11,8 @@ class Math:
     def archit(self):
         pass
 
-
+    def subtract(self, x, y):
+        return x-y
 
 
 
