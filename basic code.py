@@ -22,3 +22,7 @@ class Math:
         pass
 
 
+    def archits_third_function(self):
+        pass
+
+
