@@ -10,3 +10,5 @@ class Math:
     def mul(self, x,y):
         return x*y
 
+    def sumit(self, name):
+        return name
