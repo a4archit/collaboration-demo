@@ -21,3 +21,7 @@ class Math:
 
     def sumit(self, name):
         return name
+    def archits_second_function(self):
+        pass
+
+
